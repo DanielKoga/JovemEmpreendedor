@@ -1,0 +1,6 @@
+C:\Repositorios\KT\KogaTech\src\KogaTech.Domain.Core\bin\Debug\netstandard2.0\KogaTech.Domain.Core.deps.json
+C:\Repositorios\KT\KogaTech\src\KogaTech.Domain.Core\bin\Debug\netstandard2.0\KogaTech.Domain.Core.dll
+C:\Repositorios\KT\KogaTech\src\KogaTech.Domain.Core\obj\Debug\netstandard2.0\KogaTech.Domain.Core.csprojAssemblyReference.cache
+C:\Repositorios\KT\KogaTech\src\KogaTech.Domain.Core\obj\Debug\netstandard2.0\KogaTech.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Repositorios\KT\KogaTech\src\KogaTech.Domain.Core\obj\Debug\netstandard2.0\KogaTech.Domain.Core.AssemblyInfoInputs.cache
+C:\Repositorios\KT\KogaTech\src\KogaTech.Domain.Core\obj\Debug\netstandard2.0\KogaTech.Domain.Core.AssemblyInfo.cs
